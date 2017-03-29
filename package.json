@@ -1,0 +1,10 @@
+{
+  "name": "backBaseProtractor",
+  "version": "0.0.1",
+  "dependencies": {
+    "protractor": "latest",
+    "request-promise": "latest",
+    "bluebird": "latest",
+    "lodash": "latest"
+  }
+}
